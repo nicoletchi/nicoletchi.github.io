@@ -1,37 +1,17 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+# tags: [about, Jekyll, theme, moon]
+# date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<img src="/assets/img/headshot2.png" style="width:318.66px;height:342.66px;padding=10px">
 
-## Preview
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Hello there! I'm a UC Berkeley School of Information graduate student whose experience bridges the technology, social impact, and policy space. In the past two years, I launched a program and then an organization that helps nonprofits and technologists collaboratively design technology for the public good. My efforts have catalyzed over $1 million in pro bono tech services to nonprofit partners. 
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+I am a design and partnerships strategist with deep operational experience, having also worked in consulting to advise 30+ technology startups on building the right processes and teams to scale rapidly and sustainably. Last year, I completed a fellowship in DC where I studied future of work and AI policy at the Bertelsmann Foundation, a transatlantic think tank. 
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+At UC Berkeley, my studies focus on social computing, product management, and trust & safety. My superpower is drawing connections and expertise across diverse disciplines. Check out what I'm working on under the "Projects" tab!
+ 
